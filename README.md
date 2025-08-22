@@ -12,7 +12,7 @@ Curieux par nature, j’explore constamment de nouvelles technologies pour repou
 
 Je travaille sur des projets web sur mesure, de l’idée initiale jusqu’au déploiement, avec un soin particulier apporté à l’expérience utilisateur.
 
-### Mes objectifs :
+### Mes objectifs:
  - Apprendre chaque jour de nouvelles technologies web
  - Contribuer à des projets innovants et impactants
  - Développer des applications full-stack solides et performantes
