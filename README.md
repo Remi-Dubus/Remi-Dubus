@@ -56,6 +56,6 @@ I work on tailor-made web projects, from the initial concept to deployment, with
 
 ## 📊 <ins>Stats</ins>
 
-[![Graphique d'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Remi-Dubus&theme=tokyo-night&custom_title=Remi%20Dubus's%20Contribution%20Graph&line=00bfff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Graphique d'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=remi-dubus&theme=tokyo-night&custom_title=Remi%20Dubus's%20Contribution%20Graph&line=00bfff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Remi-Dubus&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=remi-dubus&theme=tokyonight&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
